@@ -139,15 +139,15 @@ I am a Data Science and Artificial Intelligence student with a deep-rooted passi
   <img src="https://raw.githubusercontent.com/25bda095-droid/SearchMeInYourTech/main/LifeSymbol.png" width="900"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=500&lines=DSAI+Student+%7C+Cyber+Security+Minor;Building+Secure+AI+Solutions" />
-</p>
-
 <p align='center'>
 <a href="https://www.linkedin.com/in/rishav-r-mishra/"><img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://hackerone.com/0xsearcher?type=user"><img height="28" src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://leetcode.com/u/H3GHpB2ihD/"><img height="28" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>&nbsp;&nbsp;
 <a href="https://t.me/+5sIJ1m0N-s84YmI1"><img height="28" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=500&lines=DSAI+Student+%7C+Cyber+Security+Minor;Building+Secure+AI+Solutions" />
 </p>
 
 ```
