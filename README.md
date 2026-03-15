@@ -130,6 +130,11 @@ I am a Data Science and Artificial Intelligence student with a deep-rooted passi
 🎯 <i>"Securing the future of AI, one commit at a time."</i>
 </p> -->
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=500&lines=Hello+From+Rishav+Mishra!!;DSAI+Student+%7C+Cyber+Security+Minor;Building+Secure+AI+Solutions" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/25bda095-droid/SearchMeInYourTech/main/LifeSymbol.png" width="900"/>
 </p>
@@ -141,9 +146,6 @@ I am a Data Science and Artificial Intelligence student with a deep-rooted passi
 <a href="https://t.me/+5sIJ1m0N-s84YmI1"><img height="28" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=500&lines=Hello+From+Rishav+Mishra!!;DSAI+Student+%7C+Cyber+Security+Minor;Building+Secure+AI+Solutions" />
-</p>
 ```
 DSAI Student | Cyber Security Enthusiast | Linux Explorer
 ```
