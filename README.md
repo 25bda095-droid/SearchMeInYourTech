@@ -60,7 +60,7 @@ I am a Data Science and Artificial Intelligence student with a deep-rooted passi
 
 ### 📈 Stats & Activity
 <p align="center">
-<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=25bda095-droid&show_icons=true&theme=tokyonight" />
 <img width="48%" src="https://streak-stats.demolab.com?user=25bda095-droid&theme=tokyonight&hide_border=true" />
 </p>
 
